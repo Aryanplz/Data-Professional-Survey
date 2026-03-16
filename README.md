@@ -1,117 +1,123 @@
-# Data Professional Survey Dashboard (Power BI)
+## 📊 Data Professional Survey Dashboard (Power BI)
 
-## 📊 Project Overview
+This project presents an **interactive Power BI dashboard** created from a **Data Professional Survey dataset**. The goal of this project is to analyze trends in the data industry, including **average salaries, programming language preferences, job roles, work-life balance satisfaction, and geographic distribution of data professionals**.
 
-This project is an interactive **Power BI dashboard** created using a dataset from a **Data Professional Survey**. The dashboard analyzes responses from data professionals across different roles, countries, and programming language preferences to generate meaningful insights about salaries, work satisfaction, and industry trends.
-
-The goal of this project is to demonstrate **data analysis, visualization, and dashboard design skills using Power BI**.
+The dataset was **cleaned and transformed using Power Query Editor**, followed by the creation of **interactive visualizations and KPIs in Power BI** to generate meaningful insights.
 
 ---
 
-## 📁 Dataset
+## 🚀 Project Objectives
 
-The dataset contains survey responses from **630 data professionals** including information such as:
-
-* Job Title
-* Country
-* Programming Language Preference
-* Average Salary
-* Work/Life Balance Satisfaction
-* Salary Satisfaction
-* Gender
-* Age
-
----
-
-## 📈 Dashboard Insights
-
-### 1. Average Salary by Job Title
-
-The dashboard compares salaries across different roles in the data industry:
-
-* Data Scientist
-* Data Engineer
-* Data Architect
-* Data Analyst
-* Database Developer
-* Students / Job Seekers
-
-**Key Insight:**
-Data Scientists have the highest average salary among the surveyed roles.
-
----
-
-### 2. Favorite Programming Language
-
-The visualization shows which programming languages are most popular among different data roles.
-
-**Key Insight:**
-Python is the most preferred programming language among data professionals.
-
----
-
-### 3. Survey Participants by Country
-
-A country-based visual displays the distribution of survey respondents.
-
-**Key Insight:**
-Most respondents are from the **United States**, followed by other countries including **India** and **Canada**.
-
----
-
-### 4. Work-Life Balance Satisfaction
-
-A gauge chart shows how satisfied professionals are with their work-life balance.
-
-**Average Score:** 5.74 / 10
-
----
-
-### 5. Salary Satisfaction
-
-Another gauge visual represents how satisfied professionals are with their salary.
-
-**Average Score:** 4.27 / 10
-
----
-
-### 6. Gender Salary Comparison
-
-A donut chart compares the **average salary between male and female respondents**.
-
-**Key Insight:**
-The salaries are relatively close, with only a small difference between male and female averages.
-
----
-
-### 7. Average Age of Respondents
-
-The average age of survey participants is **29.87 years**, indicating that many professionals in the data industry are early in their careers.
+* Transform raw survey data into a clean, structured dataset using **Power Query Editor**
+* Build an **interactive dashboard** to explore insights about data professionals
+* Analyze **salary trends across different job roles**
+* Identify **popular programming languages among data professionals**
+* Understand **work-life balance and salary satisfaction levels**
+* Compare **salary distribution between male and female professionals**
+* Explore the **geographic distribution of survey participants**
 
 ---
 
 ## 🛠 Tools & Technologies
 
 * **Power BI**
-* Data Cleaning & Transformation
-* Data Visualization
-* Dashboard Design
+* **Power Query Editor**
+* **Data Cleaning & Transformation**
+* **Data Visualization**
+* **Interactive Dashboard Design**
 
 ---
 
-## 🎯 Skills Demonstrated
+## 📈 Dashboard Insights
 
-* Data Analysis
-* Data Visualization
-* Business Intelligence
-* Dashboard Development
-* Insight Generation
+The dashboard provides several key insights:
+
+### 1️⃣ Average Salary by Job Title
+
+* Compares salaries across roles such as:
+
+  * Data Scientist
+  * Data Engineer
+  * Data Architect
+  * Data Analyst
+  * Database Developer
+  * Students / Job Seekers
+
+### 2️⃣ Programming Language Preferences
+
+* Shows the most commonly used languages among professionals:
+
+  * Python
+  * R
+  * C/C++
+  * JavaScript
+  * Java
+  * Others
+
+### 3️⃣ Geographic Distribution
+
+* Visualizes survey responses by country such as:
+
+  * United States
+  * India
+  * Canada
+  * United Kingdom
+  * Other regions
+
+### 4️⃣ Work Satisfaction Metrics
+
+* Average **Work-Life Balance Rating**
+* Average **Salary Satisfaction Rating**
+
+### 5️⃣ Gender Salary Comparison
+
+* Compares **average salary distribution between male and female data professionals**
 
 ---
 
-## 📌 Purpose of This Project
+## 📊 Key Metrics Displayed
 
-This project was created to practice and demonstrate **data analytics and Power BI skills**, including transforming raw survey data into meaningful business insights through interactive visualizations.
+* **Average Age of Survey Participants:** 29.87
+* **Total Survey Responses:** 630
+* **Work-Life Balance Rating:** 5.74 / 10
+* **Salary Satisfaction Rating:** 4.27 / 10
+
+---
+
+## 📂 Project Workflow
+
+1. **Data Collection**
+
+   * Raw dataset containing responses from data professionals.
+
+2. **Data Cleaning**
+
+   * Removed inconsistencies
+   * Handled missing values
+   * Transformed columns using **Power Query Editor**
+
+3. **Data Modeling**
+
+   * Prepared structured data for visualization.
+
+4. **Dashboard Creation**
+
+   * Built visualizations including:
+
+     * Bar Charts
+     * Donut Charts
+     * KPI Cards
+     * Tree Maps
+     * Gauge Charts
+
+---
+
+## 📌 Key Takeaways
+
+* **Data Scientists have the highest average salary among surveyed roles.**
+* **Python is the most popular programming language in the data industry.**
+* The majority of survey responses come from the **United States and India**.
+* Overall **salary satisfaction is relatively low compared to work-life balance satisfaction.**
 
 ---
 
@@ -121,14 +127,15 @@ Example: ![Dashboard Preview](https://github.com/Aryanplz/Data-Professional-Surv
 
 ---
 
-## 👨‍💻 Author
+## 💡 Skills Demonstrated
 
-Aryan Gupta
+* Data Cleaning using **Power Query**
+* Data Modeling
+* Data Visualization
+* Business Insight Generation
+* Dashboard Design
+* Analytical Thinking
 
-Aspiring Data Analyst skilled in:
+---
 
-* Excel
-* SQL
-* Python
-* Power BI
-
+If you want, I can also give you a **🔥 recruiter-attracting GitHub README version** that makes this project look **like a real industry-level analytics project** (it will help a lot when applying for **Data Analyst jobs**).
