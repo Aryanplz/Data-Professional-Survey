@@ -135,7 +135,4 @@ Example: ![Dashboard Preview](https://github.com/Aryanplz/Data-Professional-Surv
 * Business Insight Generation
 * Dashboard Design
 * Analytical Thinking
-
----
-
-If you want, I can also give you a **🔥 recruiter-attracting GitHub README version** that makes this project look **like a real industry-level analytics project** (it will help a lot when applying for **Data Analyst jobs**).
+  
